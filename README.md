@@ -78,5 +78,8 @@ It would be particularly interesting if we could monitor the change over time. B
 
 <img width="500" height="1168" alt="image" src="https://github.com/user-attachments/assets/c99e8fbd-6d54-4943-8e03-efae50cfddf8" />
 
+This kind of interface could be used to actively engineer culture. Let's say you believe there is a positive cultural change (as depicted above) that you want to accelerate. You could write essays/launch campaigns etc, and then check, before & after, if anything "moved the needle" (or if you accidentally moved an unrelated thing in an undesired direction). The image below is a hypothetical proposal for a campaign to steer culture in a particular direction.
+
+<img width="500" height="1552" alt="image" src="https://github.com/user-attachments/assets/6c14fffb-a9ba-4611-9dcb-bd04408498a5" />
 
 
