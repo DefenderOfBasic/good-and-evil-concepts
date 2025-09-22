@@ -72,5 +72,11 @@ Apple goes slightly closer to red (perhaps "red apples" are a bit more represent
 
 <img src="https://github.com/user-attachments/assets/63c6bc78-f03e-413b-8fad-0fc5a42bf3ce" width=400></img>
 
+### Future Work
+
+It would be particularly interesting if we could monitor the change over time. Below is a hypothetical depiction of what we might see if we were monitoring this over the last few decades. In principle, *every* single word or concept in the language is actively moving - the question is, where? If it's not moving, it's likely held together in places by opposing forces (like "capitalism" being tugged on by the left-wing and right-wing in opposite direction)
+
+<img width="500" height="1168" alt="image" src="https://github.com/user-attachments/assets/c99e8fbd-6d54-4943-8e03-efae50cfddf8" />
+
 
 
