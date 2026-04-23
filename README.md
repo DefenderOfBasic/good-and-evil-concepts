@@ -64,7 +64,7 @@ This is what it would look like for example if you got the semantic vectors for 
 
 This is the same exact process that [Kat (`@poetengineer__`) did here](https://x.com/poetengineer__/status/1779209350516449520) to visualize the latent space of colors. In other words, this is how an LLM "sees" color. It makes sense that similar colors cluster together.
 
-<img src="https://github.com/user-attachments/assets/c0813c87-3c0a-4689-8cfd-9141a8820162" width=400></img>
+<img src="https://github.com/user-attachments/assets/c0813c87-3c0a-4689-8cfd-9141a8820162" width=400 height=auto></img>
 
 The 🤯 part is how every single word or phrase fits _somewhere_ in this space. Every word has "some" color association, and it is NOT random. It's cultural. We can test this by making the poles 🔴 red and 🟢 green, then testing words like "fire", "grass", which go to red and green as expected. Then looking for things "in the middle". 
 
@@ -76,10 +76,10 @@ Apple goes slightly closer to red (perhaps "red apples" are a bit more represent
 
 It would be particularly interesting if we could monitor the change over time. Below is a hypothetical depiction of what we might see if we were monitoring this over the last few decades. In principle, *every* single word or concept in the language is actively moving - the question is, where? If it's not moving, it's likely held together in places by opposing forces (like "capitalism" being tugged on by the left-wing and right-wing in opposite direction)
 
-<img width="500" height="1168" alt="image" src="https://github.com/user-attachments/assets/c99e8fbd-6d54-4943-8e03-efae50cfddf8" />
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/c99e8fbd-6d54-4943-8e03-efae50cfddf8" />
 
 This kind of interface could be used to actively engineer culture. Let's say you believe there is a positive cultural change (as depicted above) that you want to accelerate. You could write essays/launch campaigns etc, and then check, before & after, if anything "moved the needle" (or if you accidentally moved an unrelated thing in an undesired direction). The image below is a hypothetical proposal for a campaign to steer culture in a particular direction.
 
-<img width="500" height="1552" alt="image" src="https://github.com/user-attachments/assets/6c14fffb-a9ba-4611-9dcb-bd04408498a5" />
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/6c14fffb-a9ba-4611-9dcb-bd04408498a5" />
 
 
